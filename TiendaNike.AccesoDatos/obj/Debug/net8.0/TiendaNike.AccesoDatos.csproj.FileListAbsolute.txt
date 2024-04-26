@@ -1,0 +1,38 @@
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.deps.json
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.runtimeconfig.json
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Models.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Models.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.AssemblyInfo.cs
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNi.2A3DE749.Up2Date
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\refint\TiendaNike.AccesoDatos.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.genruntimeconfig.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\ref\TiendaNike.AccesoDatos.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.deps.json
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.runtimeconfig.json
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.AccesoDatos.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Models.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Models.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\bin\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.AssemblyInfo.cs
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNi.2A3DE749.Up2Date
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\refint\TiendaNike.AccesoDatos.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\TiendaNike.AccesoDatos.genruntimeconfig.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.AccesoDatos\obj\Debug\net8.0\ref\TiendaNike.AccesoDatos.dll

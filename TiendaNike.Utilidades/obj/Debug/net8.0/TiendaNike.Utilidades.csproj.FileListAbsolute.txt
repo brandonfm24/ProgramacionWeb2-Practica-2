@@ -1,0 +1,22 @@
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.deps.json
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.AssemblyInfoInputs.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.AssemblyInfo.cs
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\refint\TiendaNike.Utilidades.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\ref\TiendaNike.Utilidades.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.deps.json
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.AssemblyInfo.cs
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\refint\TiendaNike.Utilidades.dll
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\HP\Desktop\UPDS\Programacion Web II-Abril 24\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\ref\TiendaNike.Utilidades.dll
